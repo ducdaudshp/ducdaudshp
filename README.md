@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm Duc from C1221h1
+## I'm currently learning at CodeGym JSC Vietnam
+## I'm a java web developer 
